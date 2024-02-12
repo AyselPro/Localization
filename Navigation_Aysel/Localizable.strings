@@ -1,0 +1,11 @@
+/* 
+  Localize.strings
+ Navigation_Aysel
+
+ Created by Aysel on 11.02.2024.
+  
+*/
+
+"Date" = "Дата";
+"Distance" = "Расстояние";
+"weatherKey" = "Погода";
